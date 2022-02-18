@@ -1,0 +1,9 @@
+@import "base/bootstrap-reboot";
+@import "base/icons";
+@import "base/vars";
+@import "base/container";
+
+// &display=swap  - добавить в конец кода при использовании плагина для подключения шрифта
+@import url(https://fonts.googleapis.com/css?family=Montserrat:500,600,700&display=swap);
+
+@import "blocks/header";
